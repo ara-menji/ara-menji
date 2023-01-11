@@ -2,7 +2,7 @@
 
 <img align="center" alt="GIF" src="https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif"/>
 
-## About Me 
+## About Me :ok_woman:
 As an aspiring data science student, I am highly motivated to apply my skills in statistics, programming, and problem-solving to real-world problems. I have a strong foundation in mathematics and computer science, and I am constantly learning new tools and techniques to expand my abilities. I am passionate about using data to drive decision-making and to uncover insights that can lead to positive change.
 
 I have experience working with a variety of programming languages, including Python, R, and SQL, as well as a number of data analysis and visualization libraries. I have also taken courses in machine learning, deep learning, and big data processing, and I am eager to continue building my skills in these areas.
