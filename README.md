@@ -1,6 +1,6 @@
 ### Hows it going👋
 
-<img align="center" alt="GIF" src="[https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif](https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif)" />
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif](https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif)" />
 
 ## About Me 
 As an aspiring data science student, I am highly motivated to apply my skills in statistics, programming, and problem-solving to real-world problems. I have a strong foundation in mathematics and computer science, and I am constantly learning new tools and techniques to expand my abilities. I am passionate about using data to drive decision-making and to uncover insights that can lead to positive change.
